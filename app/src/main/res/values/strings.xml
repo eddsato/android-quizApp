@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <!-- Questions headers -->
+    <string name="question01Header">Question 01</string>
+    <string name="question02Header">Question 02</string>
+    <string name="question03Header">Question 03</string>
+    <string name="question04Header">Question 04</string>
+    <string name="question05Header">Question 05</string>
+    <string name="question06Header">Question 06</string>
+    <string name="question07Header">Question 07</string>
+    <string name="question08Header">Question 08</string>
+    <string name="question09Header">Question 09</string>
+    <string name="question10Header">Question 10</string>
+
+    <!-- Questions -->
+    <string name="question01">What\'s the name of the main character from Zelda: Breath of the Wild?</string>
+    <string name="question02">How many hearts are necessary to pull out the Master Sword, on Korok Forest?</string>
+    <string name="question03">How old is Purah, from the Hatano Acient Tech Lab?</string>
+    <string name="question04">What are the names of the Hyrule Champions?</string>
+    <string name="question05">What\'s the name of the primal evil that has appeared throughout Hyrule\'s history?</string>
+
+    <!-- Answers - Question 01 -->
+    <string name="Q1_Zelda">Zelda</string>
+    <string name="Q1_Link">Link</string>
+    <string name="Q1_Mario">Mario</string>
+
+    <!-- Answers - Question 02 -->
+    <string name="Q2_10">10 hearts</string>
+    <string name="Q2_13">13 hearts</string>
+    <string name="Q2_15">15 hearts</string>
+
+    <!-- Answers - Question 03 -->
+    <string name="Q3_6yo">6 years old</string>
+    <string name="Q3_8yo">8 years old</string>
+    <string name="Q3_12yo">120 years old</string>
+
+    <!-- Answers - Question 04 -->
+    <string name="Q4_Daruk">Daruk</string>
+    <string name="Q4_Epona">Epona</string>
+    <string name="Q4_Mipha">Mipha</string>
+    <string name="Q4_Revali">Revali</string>
+    <string name="Q4_Sheik">Sheik</string>
+    <string name="Q4_Urbosa">Urbosa</string>
+
+    <string name="button">Submit</string>
+
+</resources>
